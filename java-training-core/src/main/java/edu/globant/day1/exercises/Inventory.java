@@ -9,6 +9,6 @@ package edu.globant.day1.exercises;
  *
  * @author federico.calarco
  */
-public class Test {
-    private String test;
+public class Inventory {
+    
 }
